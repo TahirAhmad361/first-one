@@ -1,0 +1,12 @@
+.hacking{
+    background-color: black;
+    color: green;
+    font-size: 2rem;
+}
+i{
+    font-size: 3rem;
+    color : white;
+}
+.visible{
+    visibility: hidden;
+}
